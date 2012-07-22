@@ -1,0 +1,4 @@
+sss
+===
+
+string,stream,shell
